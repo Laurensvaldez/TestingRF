@@ -32,6 +32,7 @@ Instructie: In common.robot (onder Resources), voeg een Test Setup en Test Teard
 - Importeren van Settings, Libraries en Resources
 - Gebruiken van Test Setup en Teardown
 - Gebruik van Tags/ Documentation
+- Gebruik locators zoals id en Xpath waar nodig
 - Gebruik van Variables
 - Gebruik van Keywords (in test case zelf maar ook importeren)
 - Gebruik van common.robot (voor Suite Setup en Teardown)
