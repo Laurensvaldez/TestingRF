@@ -1,0 +1,14 @@
+robotframework
+robotframework-appiumlibrary
+robotframework-assertion-engine
+robotframework-browser
+robotframework-databaselibrary
+robotframework-datadriver
+robotframework-pythonlibcore
+robotframework-requests
+robotframework-selenium2library
+robotframework-seleniumlibrary
+robotframework-sshlibrary
+pytz
+psycopg2
+selenium
